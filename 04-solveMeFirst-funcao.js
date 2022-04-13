@@ -11,4 +11,4 @@ function sum (a, b) {
   return a + b;
 }
 
-sum(5, 5);
+console.log(sum(5, 5));
