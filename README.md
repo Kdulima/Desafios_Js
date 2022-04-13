@@ -1,6 +1,6 @@
 # **Desafios de JavaScript**
 
->### Neste repositório você encontrará desafios de javaScript com diversos niveis de dificuldades.
+>### Neste repositório você encontrará desafios de javaScript com diversos níveis de dificuldades.
 
 
 Os desafios são do canal do youtube **_Tecnologia em Video_** do _maravilho_ Gustavo Caetano, o famoso **Gus**!
