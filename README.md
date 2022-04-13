@@ -11,5 +11,5 @@ Tá afim de melhorar a sua lógica de programação também? Vem comigo e vamos 
 
 **Lembre-se, não nascemos programadores, nos tornamos programadores com o exercício continuo!**
 
-_Não é necessário que você veja toda a escada. Apenas de o primeiro passo!_
+_Não é necessário que você veja toda a escada. Apenas dê o primeiro passo!_
 
