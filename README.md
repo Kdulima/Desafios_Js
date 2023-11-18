@@ -3,9 +3,9 @@
 >### Neste repositório você encontrará desafios de javaScript com diversos níveis de dificuldades.
 
 
-Os desafios são do canal do youtube **_[Tecnologia em Video](https://www.youtube.com/c/TecnologiaemV%C3%ADdeo)_** do _maravilho_ Gustavo Caetano, o famoso **Gus**!
+Os desafios são do canal do youtube **_[Tecnologia em Video](https://www.youtube.com/c/TecnologiaemV%C3%ADdeo)_** do Gustavo Caetano, o famoso **Gus**!
 
-Os exercícios são retirados do site **[Haker Rank](https://www.hackerrank.com/)**.
+Os exercícios são retirados do site **[Hacker Rank](https://www.hackerrank.com/)**.
 
 Tá afim de melhorar a sua lógica de programação também? Vem comigo e vamos praticar! :computer: :muscle: :rocket:
 
